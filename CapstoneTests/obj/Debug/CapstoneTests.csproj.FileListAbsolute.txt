@@ -1,0 +1,10 @@
+C:\Users\wfaiz\team8-c-week4-pair-exercises\c#-mini-capstone\CapstoneTests\bin\Debug\CapstoneTests.dll
+C:\Users\wfaiz\team8-c-week4-pair-exercises\c#-mini-capstone\CapstoneTests\bin\Debug\CapstoneTests.pdb
+C:\Users\wfaiz\team8-c-week4-pair-exercises\c#-mini-capstone\CapstoneTests\bin\Debug\Capstone.exe
+C:\Users\wfaiz\team8-c-week4-pair-exercises\c#-mini-capstone\CapstoneTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\wfaiz\team8-c-week4-pair-exercises\c#-mini-capstone\CapstoneTests\bin\Debug\Capstone.pdb
+C:\Users\wfaiz\team8-c-week4-pair-exercises\c#-mini-capstone\CapstoneTests\bin\Debug\Capstone.exe.config
+C:\Users\wfaiz\team8-c-week4-pair-exercises\c#-mini-capstone\CapstoneTests\obj\Debug\CapstoneTests.csprojResolveAssemblyReference.cache
+C:\Users\wfaiz\team8-c-week4-pair-exercises\c#-mini-capstone\CapstoneTests\obj\Debug\CapstoneTests.csproj.CoreCompileInputs.cache
+C:\Users\wfaiz\team8-c-week4-pair-exercises\c#-mini-capstone\CapstoneTests\obj\Debug\CapstoneTests.dll
+C:\Users\wfaiz\team8-c-week4-pair-exercises\c#-mini-capstone\CapstoneTests\obj\Debug\CapstoneTests.pdb
